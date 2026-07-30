@@ -9,7 +9,7 @@ it has 3 commands:
 - He knows where you live btw (/statsbot--me)
 ## demo
 log in slack and press this link (the workspace: [static's sht](https://join.slack.com/t/staticssht/shared_invite/zt-45ttiu52o-AHca9_BWrGkIPFpn8gOW6Q)) edit: if you're prompted, press "open this link in your browser"
-:: [statsbot channel](https://hackclub.enterprise.slack.com/archives/C0BL60NEG4X)
+:: [statsbot channel](https://staticssht.slack.com/archives/C0BM2FVC4PN)
 
 ## run locally
 make sure to have an API key, set up the commands, and right settings (socket mode, read write permission, App-Level token with write permission) on slack [API](https://api.slack.com/apps)
