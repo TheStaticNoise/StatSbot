@@ -8,7 +8,7 @@ it has 3 commands:
 - credits (/statsbot--credits)
 - He knows where you live btw (/statsbot--me)
 ## demo
-log in slack and press this link (WARNING!!! choose hackclub workspace, no, the link works, stardance admin, I tested it, ur just not logged in ) edit: if you're prompted, press "open this link in your browser"
+log in slack and press this link (the workspace: (static's sh*t)[https://join.slack.com/t/staticssht/shared_invite/zt-45ttiu52o-AHca9_BWrGkIPFpn8gOW6Q]) edit: if you're prompted, press "open this link in your browser"
 :: [statsbot channel](https://hackclub.enterprise.slack.com/archives/C0BL60NEG4X)
 
 ## run locally
