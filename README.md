@@ -7,7 +7,8 @@ it has 3 commands:
 - random quote (/statsbot--randomquote)
 - credits (/statsbot--credits)
 - He knows where you live btw (/statsbot--me)
-test bot at statsbot [channel](https://hackclub.enterprise.slack.com/archives/C0BL60NEG4X)
+## demo
+log in slack and press this link (WARNING!!! choose hackclub workspace, no, the link works, stardance admin, I tested it, ur just not logged in): [statsbot channel](https://hackclub.enterprise.slack.com/archives/C0BL60NEG4X)
 
 ## run locally
 make sure to have an API key, set up the commands, and right settings (socket mode, read write permission, App-Level token with write permission) on slack [API](https://api.slack.com/apps)
